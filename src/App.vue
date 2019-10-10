@@ -55,7 +55,7 @@ export default {
         if (this.selected.join(" ") == this.answer) {
           alert("Congratulations, you got it right!");
         } else {
-          alert("No, you got it wrong! :(");
+          alert("00No, you got it wrong! :(");
         }
       }
     }
